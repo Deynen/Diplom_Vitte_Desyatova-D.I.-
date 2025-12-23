@@ -51,8 +51,6 @@ Customer (1) ---< (M) OrderCustomer (1) ---< (M) OrderCustomerMerchandise (M) >-
 (1) Category
 (1) Producer
 
-text
-
 ### Описание таблиц
 1. **category** - Категории товаров (посудомоечные машины, плиты и т.д.)
 2. **producer** - Производители техники (BRAUN, TEFAL, SAMSUNG и др.)
